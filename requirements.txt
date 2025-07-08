@@ -2,3 +2,4 @@ pip install -U langchain-community
 pip install sentence-transformers
 pip install faiss-gpu
 pip install faiss-cpu
+https://drive.google.com/file/d/10HkyaU5iL8AC1CspnCanNNFrr_vP4Ocd/view?usp=drive_link
